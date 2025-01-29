@@ -1,10 +1,4 @@
-# Hi there, I'm Ronan 👋
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/ronanski11?label=Follow&style=social)](https://github.com/ronanski11)
-
-</div>
+# Hi there, I'm Ronan
 
 ## 🛠️ Technologies & Tools
 
