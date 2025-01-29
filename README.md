@@ -1,5 +1,7 @@
 # Hi there, I'm Ronan
 
+I'm an apprentice software engineer working in Basel, Switzerland.
+
 ## 🛠️ Technologies & Tools
 
 ### Frontend
