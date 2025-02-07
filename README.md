@@ -1,4 +1,4 @@
-# Hi there, I'm Ronan
+# Profile
 
 I'm an apprentice software engineer working in Basel, Switzerland.
 
